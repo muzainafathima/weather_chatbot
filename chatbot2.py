@@ -10,7 +10,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 # API Config
-API_KEY = '69593168f7b8085ecab3bffeb21efba8'  # Replace with your OpenWeatherMap API key
+API_KEY = ''  # Replace with your OpenWeatherMap API key
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 # Training Data
